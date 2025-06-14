@@ -28,8 +28,8 @@ public class FibonacciSecuencia {
     }
 
     public static void main(String[] args) {
-        int[] firma = {3, 5};
-        int n = 6;
+        int[] firma = {0, 1};
+        int n = 9;
 
         int[] resultado = fibonacciSecuencia(firma, n);
 
